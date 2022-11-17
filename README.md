@@ -7,9 +7,14 @@ After downloading the project run this commands:
 
 ```
 yarn install 
-yarn run dev 
+```
+
 
 ```
+yarn run dev 
+```
+
+
 
 
 
