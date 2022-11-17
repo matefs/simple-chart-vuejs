@@ -5,11 +5,11 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Setup
 After downloading the project run this commands: 
 
-`` 
+```
 yarn install 
 yarn run dev 
 
-``
+```
 
 
 
