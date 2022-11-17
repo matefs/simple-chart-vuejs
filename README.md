@@ -10,3 +10,4 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 
 ## Project picture
+![chart using vuejs](https://user-images.githubusercontent.com/30128774/202583805-771263b2-4387-4b1d-8903-1a611d7666f2.gif)
